@@ -54,9 +54,12 @@ h1 {
   color: #e5e7eb;
 }
 
-.content,
-img {
+.content {
   width: 450px;
+}
+
+img {
+  width: 550px;
 }
 
 button {
