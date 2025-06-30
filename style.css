@@ -70,3 +70,18 @@ button {
   border-style: none;
   cursor: pointer;
 }
+
+h1,
+h2 {
+  margin: 0px;
+}
+
+.second {
+  color: gray;
+}
+
+h2 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
