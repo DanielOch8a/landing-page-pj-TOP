@@ -167,3 +167,12 @@ h2 {
 .fourth button {
   border: 2px solid #e5e7eb;
 }
+
+footer {
+  height: 100px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
