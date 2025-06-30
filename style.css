@@ -68,4 +68,5 @@ button {
   width: 130px;
   height: 40;
   border-style: none;
+  cursor: pointer;
 }
