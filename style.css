@@ -60,7 +60,7 @@ img {
 }
 
 button {
-  background-color: 3882F6;
+  background-color: #3882f6;
   color: #e5e7eb;
   font-size: 18;
   font-weight: 900;
@@ -84,4 +84,16 @@ h2 {
   color: #1f2937;
   font-size: 36px;
   font-weight: 900;
+}
+
+.img-info {
+  width: 150px;
+}
+
+.img-info img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  border: 2px solid #3882f6;
+  border-radius: 10px;
 }
