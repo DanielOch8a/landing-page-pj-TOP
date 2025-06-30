@@ -31,3 +31,28 @@ body {
 .top-page-header li {
   display: inline;
 }
+
+.first {
+  background-color: #1f2937;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.first p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.content,
+img {
+  width: 450px;
+}
